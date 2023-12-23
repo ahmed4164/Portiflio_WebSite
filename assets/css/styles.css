@@ -228,7 +228,7 @@ img {
 .home {
   position: relative;
   row-gap: 5rem;
-  padding: 4rem 0 5rem;
+  padding: 4rem 0 0rem;
   /* border: 2px solid red; */
 }
 
@@ -444,7 +444,7 @@ input, select, textarea {
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
-  margin-left: auto;
+  /* margin-left: auto; */
 }
 
 /* ===== FOOTER =====*/
@@ -603,9 +603,6 @@ input, select, textarea {
 }
 
 @media screen and (max-width: 1070px) {
-  .height {
-    height: 100vh;
-  }
   .nav {
     /* height: var(--header-height);
     display: flex;
