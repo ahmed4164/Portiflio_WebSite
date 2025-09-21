@@ -324,7 +324,7 @@ function App() {
             <div className="experience-header">
               <div className="company-info">
                 <h3>Mobile App Developer</h3>
-                <p className="company-name">Confidential Company</p>
+                <p className="company-name">Stealth Startup</p>
                 <p className="experience-duration">December 2024 - Present</p>
               </div>
               <span className="remote-tag">Remote</span>
