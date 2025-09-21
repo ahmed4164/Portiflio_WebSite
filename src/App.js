@@ -325,7 +325,7 @@ function App() {
               <div className="company-info">
                 <h3>Mobile App Developer</h3>
                 <p className="company-name">Stealth Startup</p>
-                <p className="experience-duration">December 2024 - Present</p>
+                <p className="experience-duration">February 2025 - Present</p>
               </div>
               <span className="remote-tag">Remote</span>
             </div>
@@ -345,7 +345,7 @@ function App() {
               <div className="company-info">
                 <h3>Mobile App Developer (Full-Time)</h3>
                 <p className="company-name">Virtus-IT Private Limited</p>
-                <p className="experience-duration">July 2023 - November 2024</p>
+                <p className="experience-duration">July 2023 - February 2025</p>
               </div>
               <span className="remote-tag">Hyderabad, India</span>
             </div>
